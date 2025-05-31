@@ -1,0 +1,1 @@
+NOTE: This app uses OpenStreetMap via Leaflet, which does not require an API key.
